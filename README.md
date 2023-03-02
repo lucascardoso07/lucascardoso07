@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Lucas Cardoso. 👋
 
-- 🔭 Trabalho com Front-end.
+- 🔭 Trabalho com Front-end | HTML | CSS | JS | REACT .
 - 🌱 Estudo na kenzie academy - Full-steck
 - 📫 Contrate-me no E-mail: lcardoso662@gmail.com
 
